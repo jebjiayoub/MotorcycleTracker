@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ <item
+     android:id="@+id/Profile"
+     android:title="Profile"
+     android:icon="@drawable/ic_account_circle_black_24dp"/>
+
+    <item
+        android:id="@+id/History"
+        android:title="History"
+        android:icon="@drawable/ic_history_black_24dp"
+        />
+    <item
+        android:id="@+id/Geofencing_system"
+        android:title="Geofencing System"
+        android:icon="@drawable/ic_track_changes_black_24dp"/>
+    <item
+        android:id="@+id/Tracker"
+        android:title="Tracker"
+        android:icon="@drawable/ic_near_me_black_24dp"/>
+    <item
+        android:id="@+id/Padlock"
+        android:title="Padlock"
+        android:icon="@drawable/ic_lock_open_black_24dp"/>
+    <item
+        android:id="@+id/Store"
+        android:title="Store"
+        android:icon="@drawable/ic_store_black_24dp"/>
+    <item
+        android:id="@+id/Inssurance"
+        android:title="Inssurance"
+        android:icon="@drawable/ic_touch_app_black_24dp"/>
+    <item
+        android:id="@+id/Emergency_call"
+        android:title="Emergency Call"
+        android:icon="@drawable/ic_phone_in_talk_black_24dp"/>
+    <item
+        android:id="@+id/Logout"
+        android:title="Logout"
+        android:icon="@drawable/ic_power_settings_new_black_24dp"/>
+</menu>
